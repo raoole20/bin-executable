@@ -1,4 +1,4 @@
-# EXCUTABLE TEST    
+# EXECUTABLE TEST    
 
 me vi en la necesitadad de crear un cli, por lo que, este repo son mis pruebas de como funciona un ejecutable usando npm, yarn y pnpm.
 a continuacion dejare mis notas

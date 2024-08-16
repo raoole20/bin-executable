@@ -1,0 +1,13 @@
+{
+  "name": "create-app-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn create-app-test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./bin/create-app"
+}
